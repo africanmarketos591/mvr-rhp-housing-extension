@@ -1,6 +1,8 @@
 # Minimum Viable Relationships – Relational Housing Protocol (MVR-RHP)
 **Africa’s Answer to the Housing Deficit**  
 *A Housing Policy Extension of the Minimum Viable Relationships (MVR) Framework*  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17377001.svg)](https://doi.org/10.5281/zenodo.17377001)
+
 
 ---
 
